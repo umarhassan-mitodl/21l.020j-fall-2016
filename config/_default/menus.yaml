@@ -1,0 +1,98 @@
+hide_download: true
+hide_download_original: null
+leftnav:
+- identifier: 898aff8e-35c4-5082-f70d-7523519f72ab
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: cefcbbfd-62cc-2e72-499f-af110bf0bd23
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: c983d95f-b178-5e19-3321-3acb164435d3
+  name: Readings
+  pageRef: /pages/readings/
+  weight: 30
+- identifier: 5451ed02-b935-4cee-59a4-c015081a1051
+  name: Chanda Sen Reading Guide
+  pageRef: /pages/readings/chanda-sen-reading-guide
+  parent: c983d95f-b178-5e19-3321-3acb164435d3
+  weight: 40
+- identifier: 0f71b872-28f0-8816-ffad-36b9ee45cff3
+  name: Menocal Chanda Reading Guide
+  pageRef: /pages/readings/menocal-chanda-reading-guide
+  parent: c983d95f-b178-5e19-3321-3acb164435d3
+  weight: 50
+- identifier: f543b927-ee1e-f5f2-dd37-15a24322aa70
+  name: Chanda Ch. 3 Reading Guide
+  pageRef: /pages/readings/chanda-ch--3-reading-guide
+  parent: c983d95f-b178-5e19-3321-3acb164435d3
+  weight: 60
+- identifier: bbbcc751-87ac-dbb8-7bf9-689a0e6d0d0d
+  name: Chanda Ch. 4 Reading Guide
+  pageRef: /pages/readings/chanda-ch--4-reading-guide
+  parent: c983d95f-b178-5e19-3321-3acb164435d3
+  weight: 70
+- identifier: 4fa4a79c-cdd4-e77f-6554-90259f4a7b51
+  name: Chanda Ch. 5 Reading Guide
+  pageRef: /pages/readings/chanda-ch--5-reading-guide
+  parent: c983d95f-b178-5e19-3321-3acb164435d3
+  weight: 80
+- identifier: d8b06e8c-4847-2464-4867-207ff15a6892
+  name: Chanda Ch. 6 Reading Guide
+  pageRef: /pages/readings/chanda-ch--6-reading-guide
+  parent: c983d95f-b178-5e19-3321-3acb164435d3
+  weight: 90
+- identifier: f7c4cade-01a8-58eb-1738-65853313e92e
+  name: Chanda Ch. 7 Reading Guide
+  pageRef: /pages/readings/chanda-ch--7-reading-guide
+  parent: c983d95f-b178-5e19-3321-3acb164435d3
+  weight: 100
+- identifier: 22265e1e-81fb-b3c5-badc-1921dee5cf48
+  name: Chanda Ch. 8 Reading Guide
+  pageRef: /pages/readings/chanda-ch--8-reading-guide
+  parent: c983d95f-b178-5e19-3321-3acb164435d3
+  weight: 110
+- identifier: 0f5ff7f1-ac4c-87e0-95f6-909a5b8512b4
+  name: Misuses of Logic
+  pageRef: /pages/readings/misuses-of-logic
+  parent: c983d95f-b178-5e19-3321-3acb164435d3
+  weight: 120
+- identifier: f2253949-15ba-d49e-0446-95e981588e91
+  name: Seven Tips for Reader-Friendly Writing
+  pageRef: /pages/readings/seven-tips-for-reader-friendly-writing
+  parent: c983d95f-b178-5e19-3321-3acb164435d3
+  weight: 130
+- identifier: ccd558b4-9e5d-2880-2dda-063b460d128f
+  name: Discussion Topics for Music Readings
+  pageRef: /pages/readings/discussion-topics-for-music-readings
+  parent: c983d95f-b178-5e19-3321-3acb164435d3
+  weight: 140
+- identifier: eacca23f-9e90-f709-f038-66a02cefe90b
+  name: Assignments
+  pageRef: /pages/assignments/
+  weight: 150
+- identifier: 3648591d-6ebb-1e5a-60c8-72a60f90c686
+  name: Response Paper 1
+  pageRef: /pages/assignments/response-paper-1
+  parent: eacca23f-9e90-f709-f038-66a02cefe90b
+  weight: 160
+- identifier: 13fa5569-abec-7c09-fa66-ea9b1262c982
+  name: Essay 1
+  pageRef: /pages/assignments/essay-1
+  parent: eacca23f-9e90-f709-f038-66a02cefe90b
+  weight: 170
+- identifier: 6d73e4b0-0e0d-d256-10a4-6d1353c74e0a
+  name: Response Paper 2
+  pageRef: /pages/assignments/response-paper-2
+  parent: eacca23f-9e90-f709-f038-66a02cefe90b
+  weight: 180
+- identifier: 469e2c7f-c807-3158-9c9b-93725a6ac43d
+  name: Essay 2
+  pageRef: /pages/assignments/essay-2
+  parent: eacca23f-9e90-f709-f038-66a02cefe90b
+  weight: 190
+- identifier: 83c4ada5-1f3a-a4d7-6d58-6ce704b432ce
+  name: Related Resources
+  pageRef: /pages/related-resources
+  weight: 200
