@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: This section contains details about course topics and key dates for assignments.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
@@ -38,7 +36,7 @@ What do we mean by "globalization"?
 
 _Listen to:_
 
-Adichie, Chimamanda Ngozi. "[The Danger of a Single Story](http://www.ted.com/talks/chimamanda_adichie_the_danger_of_a_single_story)." TEDGlobal.
+Adichie, Chimamanda Ngozi. "{{% resource_link "bfc27e32-4db5-47ea-a36e-e5fa8830179a" "The Danger of a Single Story" %}}." TEDGlobal.
 
 
 {{< tdclose >}}
@@ -136,7 +134,7 @@ Discuss Chanda Ch. 5–6 and "Gunga Din"
 
 _Listen to:_
 
-Connolly, Sarah. "[Rule Brittania](https://www.youtube.com/watch?v=rB5Nbp_gmgQ)" (with [lyric annotations](https://www.youtube.com/watch?v=yHNfvJc99YY)). YouTube.
+Connolly, Sarah. "{{% resource_link "071bd67b-7964-4b51-b632-3adb8bc94dd4" "Rule Brittania" %}}" (with {{% resource_link "bcd805ae-4710-4ebe-93f7-405bac58a843" "lyric annotations" %}}). YouTube.
 
 
 {{< tdclose >}}
@@ -186,7 +184,7 @@ Reading Quiz 1
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Guest lecture on authenticy and music by [Prof. Patricia Tang](http://mta.mit.edu/person/patricia-tang)
+Guest lecture on authenticy and music by {{% resource_link "d38f16e5-f6f5-4321-9fd9-3d28ce2fd3d5" "Prof. Patricia Tang" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Group project on world music genre

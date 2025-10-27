@@ -2,8 +2,6 @@
 content_type: page
 description: This section contains details about the course description, course requirements,
   and grading breakdown.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -123,6 +121,6 @@ Required Texts
 
 The following books should be purchased:
 
-Otsuka, Julie. _The Buddha in the Attic_. Anchor Books, 2012. ISBN: 9780307744425. \[Preview with [Google Books](http://books.google.com/books?id=V04NOSsnDA0C&pg=PAfrontcover)\]
+Otsuka, Julie. _The Buddha in the Attic_. Anchor Books, 2012. ISBN: 9780307744425. \[Preview with {{% resource_link "df347a71-a11c-442f-9206-30a9d6efade7" "Google Books" %}}\]
 
-Indiana, Rita. _Papi: A Novel_. Translated by Achy Obejas. University of Chicago Press, 2016. ISBN: 9780226244891. Preview with \[[Google Books](https://books.google.com/books?id=1AuZCwAAQBAJ&lpg=PP1&dq=rita%20indiana%20papi&pg=PP1#v=onepage&q&f=false)\]
+Indiana, Rita. _Papi: A Novel_. Translated by Achy Obejas. University of Chicago Press, 2016. ISBN: 9780226244891. Preview with \[{{% resource_link "c6ede00f-2a80-4a1c-a0ac-deeac4fefbce" "Google Books" %}}\]

@@ -4,8 +4,6 @@ description: ''
 file: /courses/21l-020j-globalization-the-good-the-bad-and-the-in-between-fall-2016/8c127ccde767e02bafefe4a4b8729317_21L_020Jf16_EffectiveOralPres.pdf
 file_size: 246923
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -2,8 +2,6 @@
 content_type: page
 description: This section contains further readings, audio and visual materials, and
   further guidelines on assignments.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
@@ -13,104 +11,104 @@ uid: 83c4ada5-1f3a-a4d7-6d58-6ce704b432ce
 Additional Readings
 -------------------
 
-Eligon, John. "[Resistance to Syrian Refugges Calls to Mind Painful Past for Japanese-Americans](https://www.nytimes.com/2015/11/27/us/for-japanese-americans-resistance-to-syrian-refugees-recalls-long-ago-fears.html?emc=edit_th_20151127&nl=todaysheadlines&nlid=36023456&_r=0)." _The New York Times_. November 26, 2015.
+Eligon, John. "{{% resource_link "a925bec1-0a43-4892-be89-6ffa8baa9ee2" "Resistance to Syrian Refugges Calls to Mind Painful Past for Japanese-Americans" %}}." _The New York Times_. November 26, 2015.
 
-Moaveni, Azadeh. "[ISIS Women and Enforcers in Syria Recount Collaboration, Anguish and Escape](https://www.nytimes.com/2015/11/22/world/middleeast/isis-wives-and-enforcers-in-syria-recount-collaboration-anguish-and-escape.html?emc=edit_th_20151122&nl=todaysheadlines&nlid=36023456&_r=0)." _The New York Times_. November 21, 2015.
+Moaveni, Azadeh. "{{% resource_link "229f81dc-7885-43c4-9b56-e24e7c4ddee8" "ISIS Women and Enforcers in Syria Recount Collaboration, Anguish and Escape" %}}." _The New York Times_. November 21, 2015.
 
-Calmes, Jackie. "[Trans-Pacific Partnership Is Reached, but Faces Scrutiny in Congress](https://www.nytimes.com/2015/10/06/business/trans-pacific-partnership-trade-deal-is-reached.html?emc=edit_th_20151006&nl=todaysheadlines&nlid=36023456&_r=0)." _The New York Times_. October 5, 2015.
+Calmes, Jackie. "{{% resource_link "9e9ee7c1-e205-4ba3-b2b7-bb3a572a56be" "Trans-Pacific Partnership Is Reached, but Faces Scrutiny in Congress" %}}." _The New York Times_. October 5, 2015.
 
-Denyer, Simon. "[China Sentences Uighur Scholar to Life in Prison](http://www.bostonglobe.com/news/world/2014/09/23/china-sentences-moderate-uighur-scholar-life-prison-for-separatism/YLxf2wFBXly2PMNQM9s9JO/story.html)." _Boston Globe_. September, 24, 2014.
+Denyer, Simon. "{{% resource_link "554dc550-03bf-4eca-91b3-aee182b3a7aa" "China Sentences Uighur Scholar to Life in Prison" %}}." _Boston Globe_. September, 24, 2014.
 
-Hoodbhoy, Pervez. "[Science and the Islamic World - The Quest for a Reproachment](http://muslim-science.com/science-and-the-islamic-world-the-quest-for-a-reproachment-pervez-hoodbhoy/)." _Physics Today_. August 7, 2007.
+Hoodbhoy, Pervez. "{{% resource_link "b04121e2-764e-4efd-a288-b67f9dd9ad51" "Science and the Islamic World - The Quest for a Reproachment" %}}." _Physics Today_. August 7, 2007.
 
-Gardels, Nathan. "[Shock and Awe vs. Hearts and Minds at the Movies](http://www.digitalnpq.org/archive/2007_spring/03_gardels_medavoy.html)." _NPQ_. Spring, 2007.
+Gardels, Nathan. "{{% resource_link "8dde22ea-0320-4118-b2b1-5b0e25332066" "Shock and Awe vs. Hearts and Minds at the Movies" %}}." _NPQ_. Spring, 2007.
 
-Hessler, Peter. "[Walking the Wall](http://www.newyorker.com/magazine/2007/05/21/walking-the-wall)." _The New Yorker_. May 21, 2007.
+Hessler, Peter. "{{% resource_link "2ce2e0b0-1a57-40d7-a685-b72ed2dc1db5" "Walking the Wall" %}}." _The New Yorker_. May 21, 2007.
 
-James, Harold. "[Capital Ideas](http://www.the-tls.co.uk/articles/private/capital-ideas/)." _The Times Literary Supplement._ November, 29, 2006.
+James, Harold. "{{% resource_link "7c1dc3a6-5994-4cfd-85e7-5b81aa15d264" "Capital Ideas" %}}." _The Times Literary Supplement._ November, 29, 2006.
 
-Simmons, Ruth J. "[America's Relationship with the World: How Can Languages Help?](http://www.jstor.org/stable/25479457)" _The French Review_ 77, no. 4 (2004): 682-87.
+Simmons, Ruth J. "{{% resource_link "070e49ea-bc08-4e45-91b1-46c1f2eb8696" "America's Relationship with the World: How Can Languages Help?" %}}" _The French Review_ 77, no. 4 (2004): 682-87.
 
-Romero, Simon. "[In Babel of Tongues, Suriname Seeks Itself](http://www.nytimes.com/2008/03/23/world/americas/23suriname.html?_r=1&ref=world&oref=slogin)." _The New York Times_. March 23, 2008.
+Romero, Simon. "{{% resource_link "2f418c1b-ace7-47b1-a264-e24bea491293" "In Babel of Tongues, Suriname Seeks Itself" %}}." _The New York Times_. March 23, 2008.
 
 Etter, Lauren and John Lyons. "Brazilian Beef Clan Goes Global As Troubles Hit Market." _The Wall Street Journal_. August 1, 2008.
 
-Onishi, Norimitsu. "[In Sliver of Indonesia, Public Embrace of Judaism](http://www.nytimes.com/2010/11/23/world/asia/23indo.html?_r=1&emc=eta1)." _The New York Times_. November 22, 2010.
+Onishi, Norimitsu. "{{% resource_link "8b5cc0ea-688c-468f-8354-0b203748488a" "In Sliver of Indonesia, Public Embrace of Judaism" %}}." _The New York Times_. November 22, 2010.
 
-Kayyem, Juliette. "[IKEA's Saudi Problem](http://www.bostonglobe.com/opinion/editorials/2012/10/04/ikea-gives-saudi-arabia-pass/ylQI8VEqpmTtyU1qgS4DZI/story.html?event=event12)." _Boston Globe_. October 4, 2012.
+Kayyem, Juliette. "{{% resource_link "6588e7ed-51c8-48dd-a896-213c37d34398" "IKEA's Saudi Problem" %}}." _Boston Globe_. October 4, 2012.
 
-Healy, Beth and Megan Woolhouse. "[For Some Domestic Workers, A Life of Isolated Servitude](http://www.bostonglobe.com/business/2015/09/05/domestic/QPgC2J1fczxkPVQl2ZxF8M/story.html)." _Boston Globe_. September 6, 2015.
+Healy, Beth and Megan Woolhouse. "{{% resource_link "cb501f5c-6e09-4620-aba7-8c938f9fd89d" "For Some Domestic Workers, A Life of Isolated Servitude" %}}." _Boston Globe_. September 6, 2015.
 
-Adichie, Chimamanda Ngozi. "[Apollo](http://www.newyorker.com/magazine/2015/04/13/apollo)." _The New Yorker_. April 13, 2015.
+Adichie, Chimamanda Ngozi. "{{% resource_link "5b64ce3f-fce7-42a2-94fe-d84647720381" "Apollo" %}}." _The New Yorker_. April 13, 2015.
 
-Chamoiseau, Patrick. "[Seven Dreams of Elmira: A Tale of Martinique](http://www.jstor.org/stable/2903192)." _Transition_, no. 79 (1999): 160-75.
+Chamoiseau, Patrick. "{{% resource_link "cbc40f78-e035-4f44-b423-b3dd10ec9117" "Seven Dreams of Elmira: A Tale of Martinique" %}}." _Transition_, no. 79 (1999): 160-75.
 
-Crane, Diana. "Culture and Globalization: Theoretical Models and Emerging Trends." In _Global Culture: Media, Arts, Policy, and Globalization_. Routledge, 2002. ISBN: 9780415932301. \[Preview with [Google Books](https://books.google.com/books?id=5M5DlUiscucC&lpg=PP1&pg=PA1#v=onepage&q&f=false)\]
+Crane, Diana. "Culture and Globalization: Theoretical Models and Emerging Trends." In _Global Culture: Media, Arts, Policy, and Globalization_. Routledge, 2002. ISBN: 9780415932301. \[Preview with {{% resource_link "fbc31db4-41ad-4573-87e9-36ba0df23cc6" "Google Books" %}}\]
 
 Additional Audio/Video
 ----------------------
 
-Basu, Moni. "[The Iraqi Women Who Escaped ISIS But Lost Everything](http://www.cnn.com/2016/10/26/middleeast/mosul-offensive-women-escaped-isis/index.html)." CNN. October 26, 2016.
+Basu, Moni. "{{% resource_link "f4d1b2d5-9239-4c5c-ac62-d16e2cfde022" "The Iraqi Women Who Escaped ISIS But Lost Everything" %}}." CNN. October 26, 2016.
 
-[Interview with Rita Indiana Hernandez](https://www.youtube.com/watch?v=vI4Gj2w0Z0Q). Samora Library. March 24, 2016. YouTube.
+{{% resource_link "c9640ea9-08d0-479c-9e7b-a232e41de710" "Interview with Rita Indiana Hernandez" %}}. Samora Library. March 24, 2016. YouTube.
 
-Indiana, Rita. "[El Blu del Ping Pong](https://www.youtube.com/watch?v=Ip2Gf4dYBfU)." (Live at Summerstage Central Park). LAMC, 2011. YouTube.
+Indiana, Rita. "{{% resource_link "d4f96a5a-fa3f-47bb-bb37-aeeba8f1a91a" "El Blu del Ping Pong" %}}." (Live at Summerstage Central Park). LAMC, 2011. YouTube.
 
-———. "[Maldito Feisbu](https://www.youtube.com/watch?v=dx-IKrGvwpE)." January 19, 2010. YouTube.
+———. "{{% resource_link "2d3e620a-7f86-4d38-8526-52578c0170da" "Maldito Feisbu" %}}." January 19, 2010. YouTube.
 
-———. "[La Hora De Volve](https://www.youtube.com/watch?v=osi1cMtfQCU)." February 1, 2010. YouTube.
+———. "{{% resource_link "fa80b7e9-a876-46fe-8650-a809f1b1f2b9" "La Hora De Volve" %}}." February 1, 2010. YouTube.
 
-P-Square. "[No One Like You](https://www.youtube.com/watch?v=7sbj_7mRyAg)." April 2, 2013. YouTube.
+P-Square. "{{% resource_link "b5066de9-b28e-49ca-97b8-0a2145a4ef4e" "No One Like You" %}}." April 2, 2013. YouTube.
 
-Prince Nico Mbarga. "[Sweet Mother](https://www.youtube.com/watch?v=XFqgZFdBJyU)." February 23, 2014. YouTube.
+Prince Nico Mbarga. "{{% resource_link "bf531c2b-035d-45d7-bc3f-815279d63787" "Sweet Mother" %}}." February 23, 2014. YouTube.
 
-"[Rapper Wang Xiaolei's Lyrics](http://www.pbs.org/wgbh/pages/frontline/youngchina/music/lyrics.html)." _Frontline_. WGBH/PBS. June 17, 2008.
+"{{% resource_link "1ea7c408-1ee0-458a-9673-d38dbf259245" "Rapper Wang Xiaolei's Lyrics" %}}." _Frontline_. WGBH/PBS. June 17, 2008.
 
-[3 Americas](http://www.wildwimminfilms.com/3-americas/). Wild Wimmin Films, 2007.
+{{% resource_link "ee460d0f-8d88-49e7-9c25-84cfdeb4525d" "3 Americas" %}}. Wild Wimmin Films, 2007.
 
-"[Young & Restless in China](http://www.pbs.org/wgbh/frontline/film/youngchina/)." _Frontline_. WGBH/PBS.
+"{{% resource_link "9b7a8785-ca19-43c3-a156-b2c5d43154e0" "Young & Restless in China" %}}." _Frontline_. WGBH/PBS.
 
-Martin, Juan. "[Andalusian](https://www.youtube.com/watch?v=qClCmd5zf9w)." Arabic music from Spain "Lamma Bada Yatathanna." August 25, 2010. YouTube.
+Martin, Juan. "{{% resource_link "db5e6326-3a8e-431f-bed6-815979426651" "Andalusian" %}}." Arabic music from Spain "Lamma Bada Yatathanna." August 25, 2010. YouTube.
 
-Diaz, Joaquin. "[Romanzas Y Cantigas Sefardies](https://www.youtube.com/watch?v=NbJlOaPRuKc)." July 12, 2014. YouTube.
+Diaz, Joaquin. "{{% resource_link "8eff18ac-3df1-432c-bea5-4c106c4ac67b" "Romanzas Y Cantigas Sefardies" %}}." July 12, 2014. YouTube.
 
-Yankovic, Frankie. "[Hoop Dee Doo Polka](https://www.youtube.com/watch?v=YXtHyydM5Ac)." April 24, 2008. YouTube.
+Yankovic, Frankie. "{{% resource_link "e1807dc0-f5a6-4c76-ac22-eae7a68a90c8" "Hoop Dee Doo Polka" %}}." April 24, 2008. YouTube.
 
-Sola, Liu. "[Pipa Yang Jing and Liu Sola Jam](https://www.youtube.com/watch?v=bBq3urEWh4Q)." May 13, 2009. YouTube.
+Sola, Liu. "{{% resource_link "c369ed86-7e81-4dae-b840-1433d4374483" "Pipa Yang Jing and Liu Sola Jam" %}}." May 13, 2009. YouTube.
 
-[Interview with Liu Sola](https://www.youtube.com/watch?v=ltEMH9DFvhw). CCTV. August 8, 2007. YouTube.
+{{% resource_link "2cd85fb9-ad00-4ee9-bcb3-b7800b7997e1" "Interview with Liu Sola" %}}. CCTV. August 8, 2007. YouTube.
 
-[Conversations with History: Nayan Chanda](https://www.youtube.com/watch?v=0EvriWgx4xo). University of California Television (UCTV). January 31, 2008. YouTube.
+{{% resource_link "49b22491-2610-4e51-9301-aff96ce489af" "Conversations with History: Nayan Chanda" %}}. University of California Television (UCTV). January 31, 2008. YouTube.
 
-[Trump Blames Hillary and Obama for ISIS - Debate Highlight](https://www.youtube.com/watch?v=nJ5DZmg5_zg). September 26, 2016. YouTube.
+{{% resource_link "bebd2fd5-d7ca-4909-8e86-bcb60fd74d71" "Trump Blames Hillary and Obama for ISIS - Debate Highlight" %}}. September 26, 2016. YouTube.
 
-Adichie, Chimamanda Ngozi. "[The Danger of a Single Story](http://www.ted.com/talks/chimamanda_adichie_the_danger_of_a_single_story)." TED Talks. July, 2009.
+Adichie, Chimamanda Ngozi. "{{% resource_link "bfc27e32-4db5-47ea-a36e-e5fa8830179a" "The Danger of a Single Story" %}}." TED Talks. July, 2009.
 
-"[NBC's Earliest Report on AIDS 1982](https://www.youtube.com/watch?v=1LKJ5ZzzL0w)." February 3, 2009. YouTube.
+"{{% resource_link "81cb2db5-e2cb-4b97-a76a-0fdca1392dee" "NBC's Earliest Report on AIDS 1982" %}}." February 3, 2009. YouTube.
 
-"[AIDS and Positive Rights to Health in Brazil's Constitution](https://www.youtube.com/watch?v=96NlwmRAba8)." November 23, 2008. YouTube.
+"{{% resource_link "4614466d-a008-4013-b6f7-0ad9d4481546" "AIDS and Positive Rights to Health in Brazil's Constitution" %}}." November 23, 2008. YouTube.
 
-GLOBAL 3000. "[Brazil's AIDS Program: Battling the Virus - Against the Pharma Industry](https://www.youtube.com/watch?v=1tkmEMoopr8)." December 2, 2008. YouTube.
+GLOBAL 3000. "{{% resource_link "b15d3e13-f0f2-49e1-a99b-d5fb10449cc1" "Brazil's AIDS Program: Battling the Virus - Against the Pharma Industry" %}}." December 2, 2008. YouTube.
 
-"['Tinderbox': How The West Fueled The AIDS Epidemic](http://www.npr.org/2012/02/27/147491878/tinderbox-how-the-west-fueled-the-aids-epidemic)." February 27, 2012. NPR Fresh Air.
+"{{% resource_link "880a4142-56aa-4a4b-b8ed-10d2b20daf9e" "'Tinderbox': How The West Fueled The AIDS Epidemic" %}}." February 27, 2012. NPR Fresh Air.
 
-"[The Age of AIDS](http://www.pbs.org/wgbh/pages/frontline/aids/)." _Frontline_. PBS.
+"{{% resource_link "d64f12dc-33fb-41b5-81fe-315152da4a78" "The Age of AIDS" %}}." _Frontline_. PBS.
 
-"[Aime Cesaire - poet, politician, activist, 1913–2008](https://www.youtube.com/watch?v=dG8rvp0BmOg)." April 22, 2008. YouTube.
+"{{% resource_link "59908fca-75dd-41e5-a322-ae31e5c62186" "Aime Cesaire - poet, politician, activist, 1913–2008" %}}." April 22, 2008. YouTube.
 
-AmazonWatch. "[Defending the Rivers of the Amazon, with Sigourney Weaver](https://www.youtube.com/watch?v=K-seAAIsJLQ)." August 28, 2010. YouTube.
+AmazonWatch. "{{% resource_link "40c6d07b-907b-4bc4-a458-cdabe8fcaa97" "Defending the Rivers of the Amazon, with Sigourney Weaver" %}}." August 28, 2010. YouTube.
 
-Arts.21. "[World Cultural Heritage](https://www.youtube.com/watch?v=vVU17GC2VPQ)." June 22, 2009. YouTube.
+Arts.21. "{{% resource_link "2fb76467-0f60-43c3-9d6b-718e5f32e98d" "World Cultural Heritage" %}}." June 22, 2009. YouTube.
 
-[Made in Bangladesh](http://topdocumentaryfilms.com/made-bangladesh/). 2013.
+{{% resource_link "b323965a-653d-4707-b3e5-e10da825948a" "Made in Bangladesh" %}}. 2013.
 
 _On Point with Tom Ashbrook_. WBUR/NPR.
 
-*   "[Glooooooobalization!](http://onpoint.legacy.wbur.org/2004/07/01/glooooooobalization)". July 1, 2004.
-*   "[The Dawning Age of the Right Brain](http://onpoint.legacy.wbur.org/2005/03/28/the-dawning-age-of-the-right-brain)." March 28, 2005.
-*   "[The World According to Twitter](http://onpoint.legacy.wbur.org/2007/04/27/the-world-according-to-twitter)." April 27, 2007.
-*   "[Tweaking Globalization to Eliminate Inequity](http://onpoint.legacy.wbur.org/2001/11/26/tweaking-globalization-to-eliminate-inequity)." November 26, 2001.
-*   "[Joseph Stiglitz on Globalization](http://onpoint.legacy.wbur.org/2006/09/21/joseph-stiglitz-on-globalization)." September 21, 2006
-*   "[Dominique Moisi on The Clash of Emotions](http://onpoint.legacy.wbur.org/2007/01/09/the-clash-of-emotions)." January 9, 2007.
-*   "[The Long View: The Global Economy](http://onpoint.legacy.wbur.org/2001/11/07/the-long-view-the-global-economy)." November 7, 2001.
-*   "[Islam and the Making of Europe](http://onpoint.legacy.wbur.org/2008/02/04/islam-and-the-making-of-europe)." February 4, 2008.
+*   "{{% resource_link "322d4bce-02f8-4fb9-9de4-a807ddbc74c9" "Glooooooobalization!" %}}". July 1, 2004.
+*   "{{% resource_link "8f85a5f4-0373-4836-9ff2-7730cac47c30" "The Dawning Age of the Right Brain" %}}." March 28, 2005.
+*   "{{% resource_link "c26235ea-33de-4954-b8a7-3d04c8f2e0ba" "The World According to Twitter" %}}." April 27, 2007.
+*   "{{% resource_link "d1c7274e-06af-4703-911a-90401178fd27" "Tweaking Globalization to Eliminate Inequity" %}}." November 26, 2001.
+*   "{{% resource_link "f0d4f400-5935-449e-8ec8-2dd864c40954" "Joseph Stiglitz on Globalization" %}}." September 21, 2006
+*   "{{% resource_link "5873c2fc-971c-4b5f-9d16-3b47b7237baf" "Dominique Moisi on The Clash of Emotions" %}}." January 9, 2007.
+*   "{{% resource_link "32fe2ad8-4ea1-4d29-9f1f-b02b634b833c" "The Long View: The Global Economy" %}}." November 7, 2001.
+*   "{{% resource_link "a09125ab-37d6-490f-937d-71b7ff754b1c" "Islam and the Making of Europe" %}}." February 4, 2008.

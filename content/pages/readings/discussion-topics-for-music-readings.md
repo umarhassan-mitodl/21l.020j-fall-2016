@@ -11,7 +11,7 @@ title: Discussion Topics for Music Readings
 uid: ccd558b4-9e5d-2880-2dda-063b460d128f
 ---
 
-On Session 11, [Prof. Patty Tang](http://mta.mit.edu/person/patricia-tang) of Music and Theater Arts will be in class with us to discuss world music and authenticity. The assignment for the next session is to read Prof. Tang’s article “Negotiating Performance in Senegalese Popular Music,” Byrne’s “I Hate World Music” and Garofalo’s “Whose World, What Beat.”
+On Session 11, {{% resource_link "d38f16e5-f6f5-4321-9fd9-3d28ce2fd3d5" "Prof. Patty Tang" %}} of Music and Theater Arts will be in class with us to discuss world music and authenticity. The assignment for the next session is to read Prof. Tang’s article “Negotiating Performance in Senegalese Popular Music,” Byrne’s “I Hate World Music” and Garofalo’s “Whose World, What Beat.”
 
 As you read these articles, think about the quote on Youssou N’Dour’s promotional t-shirt:
 
